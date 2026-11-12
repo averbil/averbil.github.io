@@ -1,3 +1,8 @@
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -369,6 +374,7 @@ img {
 }
 
 header {
+  font-size: 14pt;
   width:232px;
   float:left;
   position:fixed;
