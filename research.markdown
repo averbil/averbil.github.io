@@ -10,7 +10,7 @@ Allison Verbil and Tim Hunter. 2026. [Omnivorous Agreement, like Uyghur Backness
 
 | ------------------------------------------------------------------------------------------------------------------- | ---: |
 | The learnability of unboundedly non-myopic patterns<br>Talk at the 2026 Rutgers Subregular Morphophonology Workshop                                                                 | 2026 |
-| (with Tim Hunter) Omnivorous Agreement, like Uyghur Backness Harmony, is a Challenge for Tier-Based Strict Locality<br> Talk at SCiL 2026   | 2026 |
+| Omnivorous Agreement, like Uyghur Backness Harmony, is a Challenge for Tier-Based Strict Locality<br>Talk at SCiL 2026 (joint work with Tim Hunter)   | 2026 |
 
 
 # Manuscripts
